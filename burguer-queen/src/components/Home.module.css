@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.imgHome {
+    width: 90%;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    margin: 8px auto;
+    border-radius: 26px;
+}
+
+.btnHome {
+    border: none;
+    background: none;
+    /* pointer-events: none;  */
+}
